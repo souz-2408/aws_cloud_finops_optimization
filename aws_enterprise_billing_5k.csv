@@ -1,0 +1,26 @@
+Invoice_Month,Department,Environment,Service_Name,Region,Usage_Hours,Total_Cost_USD
+2026-07,Engineering,Production,Amazon EC2,us-east-1,720,2160.00
+2026-07,Engineering,Staging,Amazon EC2,us-east-1,720,1036.80
+2026-07,Engineering,Development,Amazon EC2,us-east-1,350,336.00
+2026-07,Data Science,Production,Amazon RDS,us-west-2,720,4500.00
+2026-07,Data Science,Development,Amazon RDS,us-west-2,200,625.00
+2026-07,Marketing,Production,Amazon S3,us-east-1,720,540.00
+2026-07,Marketing,Testing,Amazon S3,us-east-1,150,22.50
+2026-07,Product,Production,Amazon DynamoDB,eu-west-1,720,2700.00
+2026-07,Operations,Production,AWS Lambda,us-east-1,500,62.50
+2026-08,Engineering,Production,Amazon EC2,us-east-1,744,2232.00
+2026-08,Engineering,Staging,Amazon EC2,us-east-1,744,1071.36
+2026-08,Engineering,Development,Amazon EC2,us-east-1,400,384.00
+2026-08,Data Science,Production,Amazon RDS,us-west-2,744,4650.00
+2026-08,Data Science,Staging,Amazon RDS,us-west-2,744,2232.00
+2026-08,Marketing,Production,Amazon S3,us-east-1,744,558.00
+2026-08,Product,Production,Amazon CloudFront,eu-west-1,744,357.12
+2026-08,Operations,Production,AWS Lambda,ap-south-1,600,75.00
+2026-09,Engineering,Production,Amazon EC2,us-east-1,720,2160.00
+2026-09,Engineering,Staging,Amazon EC2,us-east-1,720,1036.80
+2026-09,Engineering,Development,Amazon EC2,us-east-1,180,172.80
+2026-09,Data Science,Production,Amazon RDS,us-west-2,720,4500.00
+2026-09,Data Science,Staging,Amazon RDS,us-west-2,720,2160.00
+2026-09,Marketing,Production,Amazon S3,us-east-1,720,540.00
+2026-09,Product,Production,Amazon DynamoDB,eu-west-1,720,2700.00
+2026-09,Operations,Production,AWS Lambda,ap-south-1,720,90.00
